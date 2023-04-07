@@ -10,7 +10,7 @@ Este projeto foi feito no curso Responsive Web Design do freeCodeCamp e consiste
 
 ## Screenshot
 
-![Screenshot do projeto Photo Gallery](./screenshot.png)
+![Screenshot do projeto Nutrition Label](./screenshot.png)
 
 ## Funcionalidades
 
